@@ -1,6 +1,6 @@
 # 📈 Time Series Forecasting of Food Price Index (FPI)
 
-A research project focused on building and comparing statistical and deep learning models to forecast the Food Price Index (FPI) — a key economic indicator used to track global food price trends. This study explores hybrid modeling techniques to improve prediction accuracy in the presence of seasonal, nonlinear, and volatile data patterns.
+A research project focused on building and comparing statistical and deep learning models to forecast the Food Price Index (FPI)-a key economic indicator used to track global food price trends. This study explores hybrid modeling techniques to improve prediction accuracy in the presence of seasonal, nonlinear, and volatile data patterns.
 
 ---
 
